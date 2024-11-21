@@ -1,1 +1,1 @@
-print("Secret message is secret")
+print("Secret message is secret.")
